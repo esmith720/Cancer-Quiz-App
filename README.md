@@ -6,3 +6,4 @@ This is a simple React Native app that is a quiz on cancer knowledge. Questions 
 ![Question JPG](Question.jpg)
 ![Answer JPG](Answer.jpg)
 ![End Quiz JPG](EndQuiz.jpg)
+![Cancer Quiz Demo GIF](CancerQuizDemo.gif)
